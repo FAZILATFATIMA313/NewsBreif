@@ -251,17 +251,6 @@ python main.py ui
 
 ---
 
-## Scoring Alignment
-
-| Criterion | Weight | Implementation |
-|-----------|--------|----------------|
-| Real-Time Capability | 35% | Continuous polling, Pathway streaming, live updates |
-| RAG Implementation | 25% | Complete RAG pipeline: retrieval → generation |
-| Technical Elegance | 20% | Clean modular architecture, Pathway-based design |
-| Innovation & UX | 10% | Impact-first news, interactive Q&A |
-| Impact & Feasibility | 10% | Free APIs, production-ready design |
-
----
 
 Built with Pathway, NewsData.io, and Google Gemini
 
